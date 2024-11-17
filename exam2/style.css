@@ -1,0 +1,45 @@
+.icon{
+    background-color: blue;
+    height: 100px;
+    display: flex;
+    
+}
+.icon img{
+    height: 100px;
+    width: 150px;
+    
+     
+}
+
+.icon h1{
+    margin-left: 150px;
+}
+
+.p{
+    background-color: beige;
+    box-shadow: white;
+    height: 100px;
+}
+.top img{
+    height:300px
+}
+.top{
+    display: flex;
+    justify-content: space-around;
+}
+
+.more{
+    text-align: center;
+    background-color: blue;
+    height: 100px;
+}
+.more a{
+    text-decoration: none;
+    color: rgb(7, 7, 7);
+    
+}
+
+.more a:hover{
+    color: red;
+    transition: 0.2s;
+}

@@ -1,0 +1,24 @@
+.icon{
+    background-color: blue;
+    height: 100px;
+    display: flex;
+    
+}
+.icon img{
+    height: 100px;
+    width: 150px;
+    
+     
+}
+
+.icon h1{
+    margin-left: 150px;
+}
+.Buy a{
+    color: blue;
+
+}
+.Buy button{
+    border-radius: 2px;
+    background-color: aliceblue;
+}
